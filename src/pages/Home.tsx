@@ -4,9 +4,9 @@ import { ArrowRight, Mail, Linkedin, Award, Users, CheckCircle } from 'lucide-re
 
 const Home = () => {
   const stats = [
-    { icon: Award, label: 'Years Experience', value: '1+' },
-    { icon: Users, label: 'Projects Worked On', value: '5+' },
-    { icon: CheckCircle, label: 'Test Cases Created', value: '100+' },
+    { icon: Award, label: 'Years Experience', value: '6Months+' },
+    { icon: Users, label: 'Projects Worked On', value: '2' },
+    { icon: CheckCircle, label: 'Test Cases Created', value: '50+' },
   ];
 
   const skills = [
