@@ -1,6 +1,17 @@
-**# 💼 Portfolio Website**
+**Mudasir Ahmad Khan**
 
-This is my **personal portfolio website** created using **Bold AI** – a no-code AI website builder. The portfolio showcases my projects, skills, resume, and contact information in a clean and professional layout.
+This is my professional portfolio website built using BoltAI, designed to showcase my skills, expertise, and projects in the field of Software Quality Assurance (QA) and Software Engineering.
+
+The portfolio includes:
+
+✅ Overview of my technical skills
+🛠️ Projects I’ve worked on, with descriptions and links
+📝 Resume section for quick access
+📫 Contact details for networking and collaboration
+
+This website reflects my journey, achievements, and commitment to continuous learning in the tech industry.
+
+
 
 ## 🚀 Features
 
