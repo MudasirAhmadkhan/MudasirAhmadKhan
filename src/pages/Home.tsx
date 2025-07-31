@@ -5,8 +5,8 @@ import { ArrowRight, Mail, Linkedin, Award, Users, CheckCircle } from 'lucide-re
 const Home = () => {
   const stats = [
     { icon: Award, label: 'Years Experience', value: '6Months+' },
-    { icon: Users, label: 'Projects Worked On', value: '2' },
-    { icon: CheckCircle, label: 'Test Cases Created', value: '50+' },
+    { icon: Users, label: 'Projects Worked On', value: '5' },
+    { icon: CheckCircle, label: 'Test Cases Created', value: '100+' },
   ];
 
   const skills = [
@@ -82,7 +82,6 @@ const Home = () => {
                   />
                 </div>
                 <div className="absolute -bottom-4 -right-4 bg-green-600 text-white px-4 py-2 rounded-lg font-semibold">
-                  QA Engineer
                 </div>
               </div>
             </div>
