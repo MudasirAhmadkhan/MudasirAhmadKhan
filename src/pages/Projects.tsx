@@ -10,7 +10,7 @@ const Projects = () => {
       team: '3 members',
       description: 'Participated in testing a basic e-commerce website including user registration, product browsing, and shopping cart functionality.',
       responsibilities: [
-        'Created 50+ test cases for user workflows',
+        'Created 100+ test cases for user workflows',
         'Performed manual testing on different browsers',
         'Tested mobile responsiveness',
         'Identified and reported 20+ bugs with clear steps',
@@ -29,7 +29,7 @@ const Projects = () => {
       title: 'Mobile App Basic Testing',
       category: 'Mobile Application',
       duration: '1 month',
-      team: '2 members',
+      team: '5 members',
       description: 'Assisted in testing a simple mobile application with basic features like login, profile management, and content viewing.',
       responsibilities: [
         'Tested app functionality on Android devices',
@@ -51,7 +51,7 @@ const Projects = () => {
       title: 'Learning Management System',
       category: 'Web Application',
       duration: '1.5 months',
-      team: '4 members',
+      team: '6 members',
       description: 'Currently participating in testing a simple learning platform with course viewing and basic student features.',
       responsibilities: [
         'Testing course content display',
